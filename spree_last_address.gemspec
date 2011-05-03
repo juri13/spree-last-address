@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_last_address'
-  s.version     = '0.0.3'
+  s.version     = '0.0.4'
   s.summary     = 'Add gem summary here'
   s.description = 'Grab the last (spree) orders address'
   s.required_ruby_version = '>= 1.8.7'
